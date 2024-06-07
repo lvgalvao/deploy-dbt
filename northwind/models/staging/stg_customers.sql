@@ -7,8 +7,7 @@ with sources as (
 ),
 
 -- LOGICAS DE NEGOCIO
-
-with renamed_and_cleaning as (
+renamed_and_cleaning as (
 
 select
     customer_id,
