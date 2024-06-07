@@ -4,6 +4,8 @@
 
 Bem-vindo à documentação gerada automaticamente para o seu projeto DBT!
 
+![image](https://suajornadadedados.com.br/wp-content/uploads/2024/05/Logo.svg)
+
 ## Navegação
 
 Utilize as abas de navegação do Projeto e do Banco de Dados no lado esquerdo para explorar os modelos no seu projeto.
